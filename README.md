@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available on
+
+https://egghead.io/blog/building-a-crud-app-with-react-and-local-storage
 
 In the project directory, you can run:
 
